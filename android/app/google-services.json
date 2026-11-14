@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386038990139",
+    "project_id": "foodshare-bdd8f",
+    "storage_bucket": "foodshare-bdd8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386038990139:android:4943c07e9e7a7fc69be31e",
+        "android_client_info": {
+          "package_name": "com.example.foodshare_kugompo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoYnECwIVqKUA4hgUrR20VVfJs-VUK4bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
